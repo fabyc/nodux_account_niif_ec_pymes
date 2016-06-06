@@ -1,0 +1,34 @@
+nodux_account_niif_ec
+==================
+
+The nodux_account_niif_ec_pymes module of the Tryton application platform.
+See __init__.py
+
+Installing
+----------
+
+See INSTALL
+
+Support
+-------
+
+If you encounter any problems with this module, please don't hesitate to ask
+questions on the Nodux support:
+
+  http://nodux.ec/
+  http://soporte.nodux.ec/
+
+License
+-------
+
+See LICENSE
+
+Copyright
+---------
+
+See COPYRIGHT
+
+
+For more information please visit the Tryton web site:
+
+  https://nodux.ec/

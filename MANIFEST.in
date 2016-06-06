@@ -1,0 +1,6 @@
+include README
+include COPYRIGHT
+include CHANGELOG
+include LICENSE
+include tryton.cfg
+include *.xml
